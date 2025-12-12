@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kouroshmohajeri](https://github.com/Kouroshmohajeri)
 
-- 📝 I regularly write articles on [https://ir.linkedin.com/in/kourosh-mohajeri-0774aa221](https://ir.linkedin.com/in/kourosh-mohajeri-0774aa221)
+- 📝 I regularly write articles on [https://ir.linkedin.com/in/kourosh-mohajeri-0774aa221](https://ir.linkedin.com/in/kouroshmohajeri)
 
 - 💬 Ask me about **Next.js, node.js, Asp.net and MVC architecture**
 
